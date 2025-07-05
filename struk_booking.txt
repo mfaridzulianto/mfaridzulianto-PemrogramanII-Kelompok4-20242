@@ -1,0 +1,7 @@
+=== STRUK PEMESANAN ===
+Nama: Boy
+Film: Dilan 1991
+Jam Tayang: 21:00
+Kursi: B7
+Total Harga: Rp 40000
+=======================
